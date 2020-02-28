@@ -1,4 +1,5 @@
-# 女装
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。  
+# 女装 
 **NOTE：本文不一定适合所有人**  
 不知不觉女装了10年了，在C97上女装连着4天被意图明显的宅男搭讪，我觉得我还是可以总结出一些东西的。  
 先说一下作者在写文章时候的基本身体情况：身高162cm，体重52kg，三围从上到下80/65/84，肩宽35cm。
